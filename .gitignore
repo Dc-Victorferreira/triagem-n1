@@ -1,0 +1,14 @@
+# Relatórios gerados
+saida/*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editor / sistema
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini

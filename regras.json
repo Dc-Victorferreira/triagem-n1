@@ -1,0 +1,28 @@
+{
+  "sla": {
+    "primeiro_atendimento_min": 10,
+    "solucao_min": 240
+  },
+  "categorias": {
+    "Acesso/Contas": {
+      "palavras": ["senha", "login", "bloquead", "dominio", "domínio", "conta", "credencial", "acesso", "permissao", "permissão"],
+      "prioridade": "alta"
+    },
+    "Rede": {
+      "palavras": ["vpn", "internet", "ping", "dns", "dhcp", "wifi", "wi-fi", "rede", "cabo"],
+      "prioridade": "alta"
+    },
+    "Impressora": {
+      "palavras": ["impressora", "toner", "papel", "digitalizar", "scanner"],
+      "prioridade": "media"
+    },
+    "Hardware": {
+      "palavras": ["nao liga", "não liga", "tela", "bateria", "superaquec", "teclado", "mouse", "hd"],
+      "prioridade": "alta"
+    },
+    "Software": {
+      "palavras": ["excel", "outlook", "word", "trava", "erro", "atualizacao", "atualização", "instalar"],
+      "prioridade": "baixa"
+    }
+  }
+}

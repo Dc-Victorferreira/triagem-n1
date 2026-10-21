@@ -1,0 +1,17 @@
+id,data_abertura,canal,solicitante,assunto,descricao,status,data_primeiro_atendimento,data_encerramento
+1001,2026-09-01 08:05,Telefone,Ana Souza,Nao consigo logar no dominio,Senha expirada desde ontem,Encerrado,2026-09-01 08:09,2026-09-01 08:22
+1002,2026-09-01 08:40,E-mail,Bruno Lima,Esqueci a senha do e-mail,Preciso acessar o Outlook no celular,Encerrado,2026-09-01 09:05,2026-09-01 09:30
+1003,2026-09-01 09:15,Portal,Carla Dias,Conta bloqueada apos troca de senha,Conta bloqueada no login do sistema,Encerrado,2026-09-01 09:18,2026-09-01 09:40
+1004,2026-09-01 10:02,Telefone,Douglas Reis,Impressora do 2 andar nao imprime,Fila travada com trabalho pendente,Encerrado,2026-09-01 10:20,2026-09-01 11:10
+1005,2026-09-01 10:30,Portal,Elisa Prado,VPN desconecta a cada 10 minutos,Conexao cai durante reuniao,Em andamento,2026-09-01 10:35,
+1006,2026-09-01 11:00,Telefone,Felipe Nunes,Sem internet no cabo,Wi-Fi funciona no mesmo notebook,Encerrado,2026-09-01 11:06,2026-09-01 11:55
+1007,2026-09-01 13:10,E-mail,Gabriela Melo,Excel trava ao abrir planilha grande,Arquivo de 40 MB na rede,Encerrado,2026-09-01 13:45,2026-09-01 16:30
+1008,2026-09-01 14:05,Portal,Henrique Alves,Computador nao liga,Nenhum led acende ao apertar o botao,Encerrado,2026-09-01 14:08,2026-09-01 15:20
+1009,2026-09-01 15:20,Telefone,Isabel Rocha,Toner da impressora acabou,Precisa de reposicao no 3 andar,Encerrado,2026-09-01 15:25,2026-09-01 16:00
+1010,2026-09-01 16:00,Portal,Joao Pires,Pasta compartilhada sem acesso,Precisa de permissao para o setor financeiro,Encerrado,2026-09-01 16:12,2026-09-01 17:40
+1011,2026-09-02 08:10,E-mail,Karina Lopes,Outlook nao sincroniza,Caixa parada desde a atualizacao,Encerrado,2026-09-02 08:15,2026-09-02 09:05
+1012,2026-09-02 08:55,Telefone,Lucas Matos,Notebook superaquecendo,Desliga sozinho apos 20 minutos,Em andamento,2026-09-02 09:00,
+1013,2026-09-02 09:30,Portal,Marina Silva,Nao consigo conectar na VPN,Erro de autenticacao no cliente,Encerrado,2026-09-02 10:10,2026-09-02 11:30
+1014,2026-09-02 10:15,Telefone,Nelson Faria,Senha do sistema financeiro,Precisa de reset imediato para fechamento,Encerrado,2026-09-02 10:18,2026-09-02 10:30
+1015,2026-09-02 11:00,E-mail,Otavio Braga,Erro ao instalar atualizacao do Windows,Instalacao falha em 45 porcento,Encerrado,2026-09-02 12:20,2026-09-02 17:00
+1016,2026-09-02 11:40,Portal,Paula Castro,Teclado com teclas sem resposta,Teclado fisico do desktop,Encerrado,2026-13-02 09:00,
